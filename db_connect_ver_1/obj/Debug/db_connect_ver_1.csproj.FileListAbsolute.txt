@@ -1,0 +1,149 @@
+c:\users\antal\documents\visual studio 2017\Projects\db_connect_ver_1\db_connect_ver_1\bin\Debug\login.mdf
+c:\users\antal\documents\visual studio 2017\Projects\db_connect_ver_1\db_connect_ver_1\bin\Debug\login_log.ldf
+c:\users\antal\documents\visual studio 2017\Projects\db_connect_ver_1\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+c:\users\antal\documents\visual studio 2017\Projects\db_connect_ver_1\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+c:\users\antal\documents\visual studio 2017\Projects\db_connect_ver_1\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+c:\users\antal\documents\visual studio 2017\Projects\db_connect_ver_1\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+c:\users\antal\documents\visual studio 2017\Projects\db_connect_ver_1\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+c:\users\antal\documents\visual studio 2017\Projects\db_connect_ver_1\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+D:\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+D:\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+D:\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+D:\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\login.mdf
+D:\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\login_log.ldf
+D:\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+D:\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+D:\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\antal\Desktop\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\antal\Desktop\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\antal\Desktop\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\antal\Desktop\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\antal\Desktop\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\antal\Desktop\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\antal\Desktop\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\antal\Desktop\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Users\antal\Documents\Visual Studio 2017\Projects\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\antal\Documents\Visual Studio 2017\Projects\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\antal\Documents\Visual Studio 2017\Projects\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\antal\Documents\Visual Studio 2017\Projects\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\antal\Documents\Visual Studio 2017\Projects\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\antal\Documents\Visual Studio 2017\Projects\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\antal\Documents\Visual Studio 2017\Projects\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\antal\Documents\Visual Studio 2017\Projects\PROJEKTMUNKA\db_connect_ver_1\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\asd\JÓ VERZIÓ\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\Roland\Desktop\asd\JÓ VERZIÓ\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\Roland\Desktop\asd\JÓ VERZIÓ\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\Roland\Desktop\asd\JÓ VERZIÓ\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\asd\JÓ VERZIÓ\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\asd\JÓ VERZIÓ\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Desktop\asd\JÓ VERZIÓ\db_connect_ver_1\obj\Debug\db_connect_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\asd\JÓ VERZIÓ\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\asd\JÓ VERZIÓ\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\anyád\program_1.0\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\anyád\program_1.0\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\anyád\program_1.0\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\anyád\program_1.0\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\anyád\program_1.0\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\anyád\program_1.0\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\anyád\program_1.0\db_connect_ver_1\obj\Debug\db_connect_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\anyád\program_1.0\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\anyád\program_1.0\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.1\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.1\db_connect_ver_1\obj\Debug\db_connect_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.1\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.1\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.1\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.1\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.1\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.1\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.1\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Új mappa\program_1.2\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Új mappa\program_1.2\db_connect_ver_1\obj\Debug\db_connect_ver_1.csproj.CoreCompileInputs.cache
+C:\Új mappa\program_1.2\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Új mappa\program_1.2\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Új mappa\program_1.2\db_connect_ver_1\bin\Debug\login.mdf
+C:\Új mappa\program_1.2\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Új mappa\program_1.2\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Új mappa\program_1.2\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Új mappa\program_1.2\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.2 (nemjómég)\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.2 (nemjómég)\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.2 (nemjómég)\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.2 (nemjómég)\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.2 (nemjómég)\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.2 (nemjómég)\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.2 (nemjómég)\db_connect_ver_1\obj\Debug\db_connect_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.2 (nemjómég)\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.2 (nemjómég)\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.3\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.3\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.3\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.3\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.3\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.3\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.3\db_connect_ver_1\obj\Debug\db_connect_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.3\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.3\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.4\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.4\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.4\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.4\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.4\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.4\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.4\db_connect_ver_1\obj\Debug\db_connect_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.4\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.4\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.4\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.4\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.4\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.4\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.4\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.4\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.4\db_connect_ver_1\obj\Debug\db_connect_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.4\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.4\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.5\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.5\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.5\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.5\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.5\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.5\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.5\db_connect_ver_1\obj\Debug\db_connect_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.5\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.5\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.5\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.5\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.5\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.5\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.5\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.5\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.5\db_connect_ver_1\obj\Debug\db_connect_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.5\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.5\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.7\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.7\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.7\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.7\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.7\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.7\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.7\db_connect_ver_1\obj\Debug\db_connect_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.7\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\PROGRAM\program_1.7\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.7\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.7\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.7\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.7\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.7\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.7\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.7\db_connect_ver_1\obj\Debug\db_connect_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.7\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.7\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.8\db_connect_ver_1\bin\Debug\login.mdf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.8\db_connect_ver_1\bin\Debug\login_log.ldf
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.8\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe.config
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.8\db_connect_ver_1\bin\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.8\db_connect_ver_1\bin\Debug\db_connect_ver_1.pdb
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.8\db_connect_ver_1\obj\Debug\db_connect_ver_1.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.8\db_connect_ver_1\obj\Debug\db_connect_ver_1.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.8\db_connect_ver_1\obj\Debug\db_connect_ver_1.exe
+C:\Users\Roland\Desktop\IBCONTROLL\BIZT.MENTÉS\program_1.8\db_connect_ver_1\obj\Debug\db_connect_ver_1.pdb

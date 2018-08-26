@@ -1,0 +1,17 @@
+A program az egyszerûbb bemutatás és szállíthatóság érdekében,
+(éles használatától eltérõen) létrehoz az asztalra egy szerver mappát, 
+ahová tölti fel a fájlokat, illetve a szerver hiánya miatt
+az adatbázis sem a szerver mappában van tárolva.
+Ezek miatt ez csak egy bemutató példány.
+//--------------------------------------------------------------------
+1. Program indítása: gyökérkönyvtárban található, "Indíts el" parancsikonnal
+(Ha a program az elsõ indítás után nem tud csatlakozni az adatbázishoz, zárd be, majd indítsd el újra,
+ez alkalommal biztosan csatlakozni fog)
+2. A Program segítségével fájlokat tudsz fel/le-tölteni titkosítva.
+A feltöltött fájlokat csak a program segítségével töltheted le!
+Figyelem! Fájl feltöltés után a fájl titkosított változatát a program elmenti, az eredeti fájl TÖRLÉSRE KERÜL.
+//--------------------------------------------------------------------
+Jelenleg ismert hiba: 
+Csak egyszer tudsz létrehozni új mappt, ha ismét új mappát akarsz létrehozni, akkor a program egy hibazenettel kilép.
+Ha újból szeretnél Új Mappát létrehozni,kérlek indítsd újra a programot.
+[A hiba javításán dolgozunk]
